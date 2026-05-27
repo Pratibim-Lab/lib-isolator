@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/Si8640BB-B-IU:Si8640BB-B-IU",
+  "name": "Si8640BB-B-IU",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/Si8640BB-B-IU.kicad_sym",
+  "description": "Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 2.5kV isolation, Fail-Safe Low, QSOP-16",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf",
+  "keywords": "4Ch 4In Quad Digital Isolator 150Mbps",
+  "footprint": "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "Si8640BA-B-IU",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/Si8640BB-B-IU/",
+  "part_path": "parts/Si8640BB-B-IU",
+  "symbol_file": "parts/Si8640BB-B-IU/Si8640BB-B-IU.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.675Z"
+}

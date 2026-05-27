@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/VOS618A:VOS618A",
+  "name": "VOS618A",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/VOS618A.kicad_sym",
+  "description": "Optocoupler, Phototransistor Output, Low Input Current, SSOP-4",
+  "datasheet": "https://www.vishay.com/docs/83465/vos618a.pdf",
+  "keywords": "NPN DC Optocoupler",
+  "footprint": "Package_SO:SSOP-4_4.4x2.6mm_P1.27mm",
+  "extends": "TLP785",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/VOS618A/",
+  "part_path": "parts/VOS618A",
+  "symbol_file": "parts/VOS618A/VOS618A.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.168Z"
+}

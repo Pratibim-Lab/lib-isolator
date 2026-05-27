@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/Si8661EB-AU:Si8661EB-AU",
+  "name": "Si8661EB-AU",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/Si8661EB-AU.kicad_sym",
+  "description": "Low-Power Hex-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 2.5kV isolation, Fail-Safe High, QSOP-16",
+  "datasheet": "https://www.skyworksinc.com/-/media/Skyworks/SL/documents/public/data-sheets/Si866x.pdf",
+  "keywords": "6Ch 5In 1Out Hex Digital Isolator 150Mbps AEC-Q100",
+  "footprint": "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "Si8661BB-B-IS1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/Si8661EB-AU/",
+  "part_path": "parts/Si8661EB-AU",
+  "symbol_file": "parts/Si8661EB-AU/Si8661EB-AU.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.855Z"
+}

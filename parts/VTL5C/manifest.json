@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/VTL5C:VTL5C",
+  "name": "VTL5C",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/VTL5C.kicad_sym",
+  "description": "Low Cost Axial Vactrols",
+  "datasheet": "http://www.qsl.net/wa1ion/vactrol/vactrol.pdf",
+  "keywords": "vactrol",
+  "footprint": "OptoDevice:PerkinElmer_VTL5C",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/VTL5C/",
+  "part_path": "parts/VTL5C",
+  "symbol_file": "parts/VTL5C/VTL5C.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.173Z"
+}

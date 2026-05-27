@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/CPC-5002:CPC-5002",
+  "name": "CPC-5002",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/CPC-5002.kicad_sym",
+  "description": "Dual High Speed CMOS Compatible Optocoupler, dV/dt 5000/us, VCM 20, -0.3V to 6.5V VCC, DIP-8",
+  "datasheet": "http://www.ixysic.com/home/pdfs.nsf/www/CPC5002.pdf",
+  "keywords": "High speed optically coupled gates",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "HCPL-263A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/CPC-5002/",
+  "part_path": "parts/CPC-5002",
+  "symbol_file": "parts/CPC-5002/CPC-5002.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.195Z"
+}

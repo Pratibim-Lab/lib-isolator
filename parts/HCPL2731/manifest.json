@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/HCPL2731:HCPL2731",
+  "name": "HCPL2731",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/HCPL2731.kicad_sym",
+  "description": "Low Input Current high Gain Split Darlington Optocouplers, DIP-8",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/HCPL2731-D.pdf",
+  "keywords": "darlington optocoupler",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/HCPL2731/",
+  "part_path": "parts/HCPL2731",
+  "symbol_file": "parts/HCPL2731/HCPL2731.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.312Z"
+}

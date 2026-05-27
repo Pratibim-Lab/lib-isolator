@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/MOCD211M:MOCD211M",
+  "name": "MOCD211M",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/MOCD211M.kicad_sym",
+  "description": "8-pin SOIC Dual-Channel Phototransistor Output Optocoupler, VCEO 30V, VF 1.25-1.5V (IF 30mA), CTR 20%, SOIC8",
+  "datasheet": "https://www.onsemi.com/pdf/datasheet/mocd217m-d.pdf",
+  "keywords": "NPN DC Dual Optocoupler",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "MOCD207M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/MOCD211M/",
+  "part_path": "parts/MOCD211M",
+  "symbol_file": "parts/MOCD211M/MOCD211M.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.568Z"
+}

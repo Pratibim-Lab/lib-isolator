@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TLP785F:TLP785F",
+  "name": "TLP785F",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TLP785F.kicad_sym",
+  "description": "DC Optocoupler, Vce 80V, CTR 50-200%, DIP4F",
+  "datasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=10569&prodName=TLP785F",
+  "keywords": "NPN DC Optocoupler",
+  "footprint": "Package_DIP:DIP-4_W10.16mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TLP785F/",
+  "part_path": "parts/TLP785F",
+  "symbol_file": "parts/TLP785F/TLP785F.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.067Z"
+}

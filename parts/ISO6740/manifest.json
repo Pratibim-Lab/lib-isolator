@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ISO6740:ISO6740",
+  "name": "ISO6740",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ISO6740.kicad_sym",
+  "description": "General-purpose, quad-channel, 4/0 digital isolator",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/iso6740.pdf",
+  "keywords": "4 channel digital isolator",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ISO6740/",
+  "part_path": "parts/ISO6740",
+  "symbol_file": "parts/ISO6740/ISO6740.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.350Z"
+}

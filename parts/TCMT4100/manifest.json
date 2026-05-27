@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TCMT4100:TCMT4100",
+  "name": "TCMT4100",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TCMT4100.kicad_sym",
+  "description": "Quad Optocoupler, Vce 70V, CTR 50-600%, Viso 3750V (RMS), SOP-16",
+  "datasheet": "https://www.vishay.com/docs/84181/tcmt4100.pdf",
+  "keywords": "NPN DC opto",
+  "footprint": "Package_SO:SOP-16_4.4x10.4mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TCMT4100/",
+  "part_path": "parts/TCMT4100",
+  "symbol_file": "parts/TCMT4100/TCMT4100.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.977Z"
+}

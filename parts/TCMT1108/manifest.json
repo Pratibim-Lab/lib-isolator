@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TCMT1108:TCMT1108",
+  "name": "TCMT1108",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TCMT1108.kicad_sym",
+  "description": "Optocoupler, Vce 70V, CTR 130-260%, Viso 3750V (RMS), SOP-4",
+  "datasheet": "http://www.vishay.com/docs/83510/tcmt1100.pdf",
+  "keywords": "NPN DC opto",
+  "footprint": "Package_SO:SOP-4_4.4x2.6mm_P1.27mm",
+  "extends": "TCMT1100",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TCMT1108/",
+  "part_path": "parts/TCMT1108",
+  "symbol_file": "parts/TCMT1108/TCMT1108.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.972Z"
+}

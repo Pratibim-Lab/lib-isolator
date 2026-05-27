@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ISO7762FDBQ:ISO7762FDBQ",
+  "name": "ISO7762FDBQ",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ISO7762FDBQ.kicad_sym",
+  "description": "Default low, High-speed, robust EMC, reinforced, six-channel, digital, isolator, SSOP-16",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/iso7763.pdf?ts=1596905577895",
+  "keywords": "6 channel digital isolator",
+  "footprint": "Package_SO:SSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "ISO7762DBQ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ISO7762FDBQ/",
+  "part_path": "parts/ISO7762FDBQ",
+  "symbol_file": "parts/ISO7762FDBQ/ISO7762FDBQ.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.466Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ADuM121N:ADuM121N",
+  "name": "ADuM121N",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ADuM121N.kicad_sym",
+  "description": "Dual-channel digital isolator,1.8 to 5V, 150Mbs, 3kV",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM120N_121N.pdf",
+  "keywords": "Dual-channel digital isolator",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ADuM121N/",
+  "part_path": "parts/ADuM121N",
+  "symbol_file": "parts/ADuM121N/ADuM121N.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.028Z"
+}

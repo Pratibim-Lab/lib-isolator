@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/HCPL-0201:HCPL-0201",
+  "name": "HCPL-0201",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/HCPL-0201.kicad_sym",
+  "description": "Opto Coupler, 1kV/us, 50V CMR, Schmitt trigger output, SOIC-8",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-0674EN",
+  "keywords": "opto coupler schmitt output",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/HCPL-0201/",
+  "part_path": "parts/HCPL-0201",
+  "symbol_file": "parts/HCPL-0201/HCPL-0201.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.224Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TCMT4606:TCMT4606",
+  "name": "TCMT4606",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TCMT4606.kicad_sym",
+  "description": "Quad AC/DC Phototransistor Optocoupler, Vce 70V, CTR 100-300%, SOP16",
+  "datasheet": "http://www.vishay.com/docs/83512/tcmt1600.pdf",
+  "keywords": "NPN AC DC Quad Phototransistor Optocoupler",
+  "footprint": "Package_SO:SOP-16_4.55x10.3mm_P1.27mm",
+  "extends": "TLP290-4",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TCMT4606/",
+  "part_path": "parts/TCMT4606",
+  "symbol_file": "parts/TCMT4606/TCMT4606.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.982Z"
+}

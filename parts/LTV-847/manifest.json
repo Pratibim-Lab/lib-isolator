@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/LTV-847:LTV-847",
+  "name": "LTV-847",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/LTV-847.kicad_sym",
+  "description": "Quad DC Optocoupler, Vce 35V, CTR 50%, DIP-16",
+  "datasheet": "http://optoelectronics.liteon.com/upload/download/DS-70-96-0016/LTV-8X7%20series.PDF",
+  "keywords": "NPN DC Quad Optocoupler",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "PC847",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/LTV-847/",
+  "part_path": "parts/LTV-847",
+  "symbol_file": "parts/LTV-847/LTV-847.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.553Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/LTV-814:LTV-814",
+  "name": "LTV-814",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/LTV-814.kicad_sym",
+  "description": "AC/DC Optocoupler, Vce 35V, CTR 20%, DIP4",
+  "datasheet": "https://optoelectronics.liteon.com/upload/download/DS-70-96-0013/LTV-8X4%20series%20201509.pdf",
+  "keywords": "NPN AC DC Optocoupler",
+  "footprint": "Package_DIP:DIP-4_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/LTV-814/",
+  "part_path": "parts/LTV-814",
+  "symbol_file": "parts/LTV-814/LTV-814.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.539Z"
+}

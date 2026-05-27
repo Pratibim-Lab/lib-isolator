@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ADuM7641A:ADuM7641A",
+  "name": "ADuM7641A",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ADuM7641A.kicad_sym",
+  "description": "Low Power Six-Channel 5/1 Digital Isolator, 1Mbps 25ns, Fail-Safe High, QSOP-20",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM7640_7641_7642_7643.pdf",
+  "keywords": "6-Channels Hex Digital Isolator 1Mbps",
+  "footprint": "Package_SO:QSOP-20_3.9x8.7mm_P0.635mm",
+  "extends": "ADuM7641C",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ADuM7641A/",
+  "part_path": "parts/ADuM7641A",
+  "symbol_file": "parts/ADuM7641A/ADuM7641A.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.162Z"
+}

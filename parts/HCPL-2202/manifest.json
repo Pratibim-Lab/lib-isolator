@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/HCPL-2202:HCPL-2202",
+  "name": "HCPL-2202",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/HCPL-2202.kicad_sym",
+  "description": "Opto Coupler, 1kV/us, 50V CMR, Schmitt trigger output, DIP-8",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-0674EN",
+  "keywords": "opto coupler schmitt output",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/HCPL-2202/",
+  "part_path": "parts/HCPL-2202",
+  "symbol_file": "parts/HCPL-2202/HCPL-2202.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.277Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TLP2745:TLP2745",
+  "name": "TLP2745",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TLP2745.kicad_sym",
+  "description": "10-Mbps low-power non inverting photocouple,5 kVrms, 4.5 - 30 Vdd, push-pull output",
+  "datasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=29405&prodName=TLP2745",
+  "keywords": "Photocouple highspeed non inverting push-pull output",
+  "footprint": "Package_SO:SO-6L_10x3.84mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TLP2745/",
+  "part_path": "parts/TLP2745",
+  "symbol_file": "parts/TLP2745/TLP2745.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.012Z"
+}

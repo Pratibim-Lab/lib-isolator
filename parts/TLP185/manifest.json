@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TLP185:TLP185",
+  "name": "TLP185",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TLP185.kicad_sym",
+  "description": "DC Optocoupler, Vce 80V, CTR 50-100%, SOIC-4-6 (MFSOP-4-6)",
+  "datasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=11791&prodName=TLP185",
+  "keywords": "NPN DC Optocoupler",
+  "footprint": "Package_SO:SOIC-4_4.55x3.7mm_P2.54mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TLP185/",
+  "part_path": "parts/TLP185",
+  "symbol_file": "parts/TLP185/TLP185.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.004Z"
+}

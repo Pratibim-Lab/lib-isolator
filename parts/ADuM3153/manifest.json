@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ADuM3153:ADuM3153",
+  "name": "ADuM3153",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ADuM3153.kicad_sym",
+  "description": "3.75kV 7-Channel SPI Isolator, 3 Reverse Channels, SSOP-20",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM3151_3152_3153.pdf",
+  "keywords": "spi isolated",
+  "footprint": "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ADuM3153/",
+  "part_path": "parts/ADuM3153",
+  "symbol_file": "parts/ADuM3153/ADuM3153.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.122Z"
+}

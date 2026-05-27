@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/MID400:MID400",
+  "name": "MID400",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/MID400.kicad_sym",
+  "description": "AC Line Monitor Logic-Out Device, DIP-8",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/MID400-D.pdf",
+  "keywords": "AC line monitor",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/MID400/",
+  "part_path": "parts/MID400",
+  "symbol_file": "parts/MID400/MID400.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.562Z"
+}

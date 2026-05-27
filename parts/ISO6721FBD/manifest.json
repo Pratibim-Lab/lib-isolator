@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ISO6721FBD:ISO6721FBD",
+  "name": "ISO6721FBD",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ISO6721FBD.kicad_sym",
+  "description": "Low Power Dual-Channel 1/1 Digital Isolator, 50Mbps 11ns, Fail-Safe Low, SOIC-8 (150mil)",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/iso6721r.pdf",
+  "keywords": "2Ch Dual Digital Isolator 50Mbps",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "ISO7721D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ISO6721FBD/",
+  "part_path": "parts/ISO6721FBD",
+  "symbol_file": "parts/ISO6721FBD/ISO6721FBD.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.336Z"
+}

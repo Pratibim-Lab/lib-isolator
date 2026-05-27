@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/6N135S:6N135S",
+  "name": "6N135S",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/6N135S.kicad_sym",
+  "description": "High Speed Optocoupler, TTL Compatible, CTR 18%, SMDIP8",
+  "datasheet": "https://optoelectronics.liteon.com/upload/download/DS70-2008-0032/6N135-L%206N136-L%20series.pdf",
+  "keywords": "High Speed Optocoupler",
+  "footprint": "Package_DIP:SMDIP-8_W9.53mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/6N135S/",
+  "part_path": "parts/6N135S",
+  "symbol_file": "parts/6N135S/6N135S.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:32.969Z"
+}

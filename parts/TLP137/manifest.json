@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TLP137:TLP137",
+  "name": "TLP137",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TLP137.kicad_sym",
+  "description": "DC Optocoupler Base Connected, Vce 80V, CTR 100-200%, SOIC-5-6 (MFSOP-5-6)",
+  "datasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=16744&prodName=TLP137",
+  "keywords": "NPN DC Optocoupler Base Connected",
+  "footprint": "Package_SO:Toshiba_SOIC-5-6_4.4x3.6mm_P1.27mm",
+  "extends": "TLP131",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TLP137/",
+  "part_path": "parts/TLP137",
+  "symbol_file": "parts/TLP137/TLP137.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.995Z"
+}

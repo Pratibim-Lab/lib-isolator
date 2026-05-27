@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ADuM1201WT:ADuM1201WT",
+  "name": "ADuM1201WT",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ADuM1201WT.kicad_sym",
+  "description": "Dual-Channel Digital Isolator, 10Mbps 50ns, Hihgest Temp. Grade, bidirectional communication, 3V/5V level translation, SOIC-8",
+  "datasheet": "https://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf",
+  "keywords": "2Ch Dual Digital Isolator 10Mbps",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "ADuM1201AR",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ADuM1201WT/",
+  "part_path": "parts/ADuM1201WT",
+  "symbol_file": "parts/ADuM1201WT/ADuM1201WT.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.023Z"
+}

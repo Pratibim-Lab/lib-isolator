@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/VTL5Cx2:VTL5Cx2",
+  "name": "VTL5Cx2",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/VTL5Cx2.kicad_sym",
+  "description": "Dual Element Axial Vactrols",
+  "datasheet": "http://www.alliedelec.com/m/d/ecb1ed91959ae54d97cf67f5103d9b2b.pdf",
+  "keywords": "vactrol",
+  "footprint": "OptoDevice:PerkinElmer_VTL5Cx2",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/VTL5Cx2/",
+  "part_path": "parts/VTL5Cx2",
+  "symbol_file": "parts/VTL5Cx2/VTL5Cx2.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.178Z"
+}

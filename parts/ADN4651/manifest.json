@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ADN4651:ADN4651",
+  "name": "ADN4651",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ADN4651.kicad_sym",
+  "description": "Dual-Channel LVDS Isolators, 5 kV RMS/3.75 kV RMS, 600 Mbps, SSOP-20",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/adn4650-4651-4652.pdf",
+  "keywords": "LVDS Isolator",
+  "footprint": "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ADN4651/",
+  "part_path": "parts/ADN4651",
+  "symbol_file": "parts/ADN4651/ADN4651.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:32.993Z"
+}

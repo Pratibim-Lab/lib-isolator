@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/SFH601-1:SFH601-1",
+  "name": "SFH601-1",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/SFH601-1.kicad_sym",
+  "description": "Optocoupler, phototransistor output with base connection, CTR 40-80%, Vceo 100V, Viso 5000Vrms, DIP-6",
+  "datasheet": "https://www.vishay.com/docs/83663/sfh601.pdf",
+  "keywords": "NPN DC-optocoupler",
+  "footprint": "Package_DIP:DIP-6_W7.62mm",
+  "extends": "4N25",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/SFH601-1/",
+  "part_path": "parts/SFH601-1",
+  "symbol_file": "parts/SFH601-1/SFH601-1.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.592Z"
+}

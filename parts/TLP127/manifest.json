@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TLP127:TLP127",
+  "name": "TLP127",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TLP127.kicad_sym",
+  "description": "DC Darlington Optocoupler, Vce 300V, CTR 1000%, SOIC-4-6 (MFSOP-4-6)",
+  "datasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=16902&prodName=TLP127",
+  "keywords": "NPN Darlington DC Optocoupler",
+  "footprint": "Package_SO:Toshiba_SOIC-4-6_4.4x3.6mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TLP127/",
+  "part_path": "parts/TLP127",
+  "symbol_file": "parts/TLP127/TLP127.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.986Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/π120U30:π120U30",
+  "name": "π120U30",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/π120U30.kicad_sym",
+  "description": "Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8",
+  "datasheet": "http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf",
+  "keywords": "Dual-channel digital isolator pi120U30",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "ADuM1200AR",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/π120U30/",
+  "part_path": "parts/π120U30",
+  "symbol_file": "parts/π120U30/π120U30.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.181Z"
+}

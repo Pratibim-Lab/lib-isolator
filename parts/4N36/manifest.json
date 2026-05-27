@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/4N36:4N36",
+  "name": "4N36",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/4N36.kicad_sym",
+  "description": "Optocoupler, Phototransistor Output, with Base Connection, Vce 70V, CTR 100%, Viso 5000V, DIP6",
+  "datasheet": "https://www.vishay.com/docs/81181/4n35.pdf",
+  "keywords": "NPN DC Optocoupler Base Connected",
+  "footprint": "Package_DIP:DIP-6_W7.62mm",
+  "extends": "4N25",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/4N36/",
+  "part_path": "parts/4N36",
+  "symbol_file": "parts/4N36/4N36.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:32.959Z"
+}

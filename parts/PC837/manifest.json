@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/PC837:PC837",
+  "name": "PC837",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/PC837.kicad_sym",
+  "description": "DC Triple Optocoupler, Vce 35V, CTR 50-300%, DIP12",
+  "datasheet": "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf",
+  "keywords": "NPN DC Triple Optocoupler",
+  "footprint": "Package_DIP:DIP-12_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/PC837/",
+  "part_path": "parts/PC837",
+  "symbol_file": "parts/PC837/PC837.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.584Z"
+}

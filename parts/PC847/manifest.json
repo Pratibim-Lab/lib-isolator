@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/PC847:PC847",
+  "name": "PC847",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/PC847.kicad_sym",
+  "description": "DC Quad Optocoupler, Vce 35V, CTR 50-300%, DIP16",
+  "datasheet": "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf",
+  "keywords": "NPN DC Quad Optocoupler",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/PC847/",
+  "part_path": "parts/PC847",
+  "symbol_file": "parts/PC847/PC847.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.586Z"
+}

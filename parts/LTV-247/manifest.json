@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/LTV-247:LTV-247",
+  "name": "LTV-247",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/LTV-247.kicad_sym",
+  "description": "DC Quad Optocoupler, Vce 80V, CTR 100-600%, SOP-16",
+  "datasheet": "http://optoelectronics.liteon.com/upload/download/DS70-2009-0014/LTV-2X7%20sereis%20Mar17.PDF",
+  "keywords": "NPN DC Quad Optocoupler",
+  "footprint": "Package_SO:SOP-16_4.4x10.4mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/LTV-247/",
+  "part_path": "parts/LTV-247",
+  "symbol_file": "parts/LTV-247/LTV-247.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.517Z"
+}

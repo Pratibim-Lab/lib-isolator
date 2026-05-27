@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TLP184:TLP184",
+  "name": "TLP184",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TLP184.kicad_sym",
+  "description": "AC/DC Optocoupler, Vce 80V, CTR 50-100%, SOIC-4-6 (MFSOP-4-6)",
+  "datasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=11793&prodName=TLP184",
+  "keywords": "NPN AC DC Optocoupler",
+  "footprint": "Package_SO:Toshiba_SOIC-4-6_4.4x3.6mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TLP184/",
+  "part_path": "parts/TLP184",
+  "symbol_file": "parts/TLP184/TLP184.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.997Z"
+}

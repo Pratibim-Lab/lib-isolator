@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/SFH620A-3:SFH620A-3",
+  "name": "SFH620A-3",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/SFH620A-3.kicad_sym",
+  "description": "Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-320 UL, cUL, BSI, THT PDIP-4",
+  "datasheet": "http://www.vishay.com/docs/83675/sfh620a.pdf",
+  "keywords": "Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-320",
+  "footprint": "Package_DIP:DIP-4_W7.62mm",
+  "extends": "SFH620A-1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/SFH620A-3/",
+  "part_path": "parts/SFH620A-3",
+  "symbol_file": "parts/SFH620A-3/SFH620A-3.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.663Z"
+}

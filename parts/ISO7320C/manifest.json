@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ISO7320C:ISO7320C",
+  "name": "ISO7320C",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ISO7320C.kicad_sym",
+  "description": "Low Power Dual-Channel 2/0 Digital Isolator, 25Mbps 33ns, Fail-Safe High, SO8",
+  "datasheet": "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=iso7320c&fileType=pdf",
+  "keywords": "2Ch Dual Digital Isolator 25Mbps",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ISO7320C/",
+  "part_path": "parts/ISO7320C",
+  "symbol_file": "parts/ISO7320C/ISO7320C.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.363Z"
+}

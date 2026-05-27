@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ADuM260N:ADuM260N",
+  "name": "ADuM260N",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ADuM260N.kicad_sym",
+  "description": "5.0 kV RMS, 6-Channel Digital Isolator, 0 reverse channels, SOIC-16",
+  "datasheet": "http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM260N-261N-262N-263N.pdf",
+  "keywords": "digital isolator galvanic isopower",
+  "footprint": "Package_SO:SOIC-16W_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ADuM260N/",
+  "part_path": "parts/ADuM260N",
+  "symbol_file": "parts/ADuM260N/ADuM260N.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.080Z"
+}

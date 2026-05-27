@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/VOA300:VOA300",
+  "name": "VOA300",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/VOA300.kicad_sym",
+  "description": "Linear Optocoupler, High Gain Stability, 5300VRMS isolation, 200 kHz Bandwidth, DIP-8",
+  "datasheet": "https://mouser.com/pdfDocs/Vishay_VOA300_DS.pdf",
+  "keywords": "optically coupled gates automotive",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/VOA300/",
+  "part_path": "parts/VOA300",
+  "symbol_file": "parts/VOA300/VOA300.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.159Z"
+}

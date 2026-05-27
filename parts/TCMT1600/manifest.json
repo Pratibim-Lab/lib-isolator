@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TCMT1600:TCMT1600",
+  "name": "TCMT1600",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TCMT1600.kicad_sym",
+  "description": "AC/DC Phototransistor Optocoupler, Vce 70V, CTR 80-300%, SOP4",
+  "datasheet": "http://www.vishay.com/docs/83512/tcmt1600.pdf",
+  "keywords": "NPN AC DC Phototransistor Optocoupler",
+  "footprint": "Package_SO:SOP-4_4.4x2.6mm_P1.27mm",
+  "extends": "TLP290",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TCMT1600/",
+  "part_path": "parts/TCMT1600",
+  "symbol_file": "parts/TCMT1600/TCMT1600.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.975Z"
+}

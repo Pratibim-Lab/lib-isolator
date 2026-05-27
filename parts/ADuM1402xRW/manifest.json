@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ADuM1402xRW:ADuM1402xRW",
+  "name": "ADuM1402xRW",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ADuM1402xRW.kicad_sym",
+  "description": "Quad Channel Digital Isolator, 10Mbps, SOIC-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADUM1400_1401_1402.pdf",
+  "keywords": "Digital Isolator",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ADuM1402xRW/",
+  "part_path": "parts/ADuM1402xRW",
+  "symbol_file": "parts/ADuM1402xRW/ADuM1402xRW.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.059Z"
+}

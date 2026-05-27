@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/PC817:PC817",
+  "name": "PC817",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/PC817.kicad_sym",
+  "description": "DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4",
+  "datasheet": "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf",
+  "keywords": "NPN DC Optocoupler",
+  "footprint": "Package_DIP:DIP-4_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/PC817/",
+  "part_path": "parts/PC817",
+  "symbol_file": "parts/PC817/PC817.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.580Z"
+}

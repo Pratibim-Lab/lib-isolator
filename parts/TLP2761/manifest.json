@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TLP2761:TLP2761",
+  "name": "TLP2761",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TLP2761.kicad_sym",
+  "description": "15-Mbps inverting photocouple,5 kVrms, 2.7 - 5.5 Vdd, push-pull output",
+  "datasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=28819&prodName=TLP2761",
+  "keywords": "Photocouple highspeed inverting push-pull output",
+  "footprint": "Package_SO:SO-6L_10x3.84mm_P1.27mm",
+  "extends": "TLP2748",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TLP2761/",
+  "part_path": "parts/TLP2761",
+  "symbol_file": "parts/TLP2761/TLP2761.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.016Z"
+}

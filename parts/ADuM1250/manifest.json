@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ADuM1250:ADuM1250",
+  "name": "ADuM1250",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ADuM1250.kicad_sym",
+  "description": "Dual-channel I2C digital isolator, Bidirectional communication, 3V/5V level translation, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM1250_1251.pdf",
+  "keywords": "Dual-channel digital isolator I2C",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ADuM1250/",
+  "part_path": "parts/ADuM1250",
+  "symbol_file": "parts/ADuM1250/ADuM1250.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.031Z"
+}

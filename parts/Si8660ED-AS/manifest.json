@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/Si8660ED-AS:Si8660ED-AS",
+  "name": "Si8660ED-AS",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/Si8660ED-AS.kicad_sym",
+  "description": "Low-Power Hex-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 5kV isolation, Fail-Safe High, SOIC-16W",
+  "datasheet": "https://www.skyworksinc.com/-/media/Skyworks/SL/documents/public/data-sheets/Si866x.pdf",
+  "keywords": "6Ch 6In Hex Digital Isolator 150Mbps AEC-Q100",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "Si8660BA-B-IS1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/Si8660ED-AS/",
+  "part_path": "parts/Si8660ED-AS",
+  "symbol_file": "parts/Si8660ED-AS/Si8660ED-AS.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.818Z"
+}

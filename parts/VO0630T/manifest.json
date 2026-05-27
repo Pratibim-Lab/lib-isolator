@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/VO0630T:VO0630T",
+  "name": "VO0630T",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/VO0630T.kicad_sym",
+  "description": "Dual High Speed CMOS Compatible Optocoupler, dV/dt 1000/us, VCM 50, max 7V VCC, SOIC-8",
+  "datasheet": "http://www.vishay.com/doc?84607",
+  "keywords": "High speed optically coupled gates",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "HCPL-063A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/VO0630T/",
+  "part_path": "parts/VO0630T",
+  "symbol_file": "parts/VO0630T/VO0630T.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.079Z"
+}

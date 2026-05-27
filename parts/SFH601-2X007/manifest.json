@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/SFH601-2X007:SFH601-2X007",
+  "name": "SFH601-2X007",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/SFH601-2X007.kicad_sym",
+  "description": "Optocoupler, phototransistor output with base connection, CTR 63-125%, Vceo 100V, Viso 5000Vrms, DIP-6 (SMD, option 7)",
+  "datasheet": "https://docs.rs-online.com/fcc5/0900766b80e308e7.pdf",
+  "keywords": "NPN DC-optocoupler Obsolete",
+  "footprint": "Package_DIP:SMDIP-6_W7.62mm",
+  "extends": "SFH601-1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/SFH601-2X007/",
+  "part_path": "parts/SFH601-2X007",
+  "symbol_file": "parts/SFH601-2X007/SFH601-2X007.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.595Z"
+}

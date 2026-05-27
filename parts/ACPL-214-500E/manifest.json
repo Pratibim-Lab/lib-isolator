@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ACPL-214-500E:ACPL-214-500E",
+  "name": "ACPL-214-500E",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ACPL-214-500E.kicad_sym",
+  "description": "AC/DC Phototransistor Optocoupler, Vce 80V, CTR 20-400%, SOP-4",
+  "datasheet": "https://docs.broadcom.com/doc/AV02-0469EN",
+  "keywords": "npn ac dc ac-dc acdc phototransistor optocoupler optoisolator",
+  "footprint": "Package_SO:SOP-4_4.4x2.6mm_P1.27mm",
+  "extends": "TLP290",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ACPL-214-500E/",
+  "part_path": "parts/ACPL-214-500E",
+  "symbol_file": "parts/ACPL-214-500E/ACPL-214-500E.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:32.988Z"
+}

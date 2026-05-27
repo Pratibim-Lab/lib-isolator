@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/FODM214A:FODM214A",
+  "name": "FODM214A",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/FODM214A.kicad_sym",
+  "description": "AC/DC Optocoupler, Vce 80V, CTR 50-250%, SOP-4",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/FODM214-D.PDF",
+  "keywords": "AC DC Phototransistor Optocoupler",
+  "footprint": "Package_SO:SOP-4_4.4x2.6mm_P1.27mm",
+  "extends": "FODM214",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/FODM214A/",
+  "part_path": "parts/FODM214A",
+  "symbol_file": "parts/FODM214A/FODM214A.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.204Z"
+}

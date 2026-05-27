@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/H11L1:H11L1",
+  "name": "H11L1",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/H11L1.kicad_sym",
+  "description": "Schmitt Trigger Output Optocoupler, High Speed, DIP-6, 1.6mA turn on threshold",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/H11L3M-D.PDF",
+  "keywords": "High Speed Schmitt Optocoupler",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/H11L1/",
+  "part_path": "parts/H11L1",
+  "symbol_file": "parts/H11L1/H11L1.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.214Z"
+}

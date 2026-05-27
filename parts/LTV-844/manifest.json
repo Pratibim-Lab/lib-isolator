@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/LTV-844:LTV-844",
+  "name": "LTV-844",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/LTV-844.kicad_sym",
+  "description": "Quad AC/DC Optocoupler, Vce 35V, CTR 20%, DIP16",
+  "datasheet": "http://optoelectronics.liteon.com/upload/download/DS-70-96-0013/S_110_LTV-814%20824%20844%20(M,%20S,%20S-TA,%20S-TA1,%20S-TP)%20Series.pdf",
+  "keywords": "Quad NPN AC DC Optocoupler",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/LTV-844/",
+  "part_path": "parts/LTV-844",
+  "symbol_file": "parts/LTV-844/LTV-844.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.551Z"
+}

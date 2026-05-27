@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TLP291:TLP291",
+  "name": "TLP291",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TLP291.kicad_sym",
+  "description": "DC Optocoupler, Vce 80V, CTR 50-100%, SOP4",
+  "datasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=12884&prodName=TLP291",
+  "keywords": "NPN DC Optocoupler",
+  "footprint": "Package_SO:SOIC-4_4.55x2.6mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TLP291/",
+  "part_path": "parts/TLP291",
+  "symbol_file": "parts/TLP291/TLP291.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.035Z"
+}

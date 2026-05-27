@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/HCPL-0601:HCPL-0601",
+  "name": "HCPL-0601",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/HCPL-0601.kicad_sym",
+  "description": "Single High Speed LSTTL/TTL Compatible Optocoupler with enable, dV/dt 10000/us, VCM 1000, max 7V VCC, SOIC-8",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-0940EN",
+  "keywords": "High speed optically coupled gates enable",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "HCPL-061A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/HCPL-0601/",
+  "part_path": "parts/HCPL-0601",
+  "symbol_file": "parts/HCPL-0601/HCPL-0601.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.233Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TLP292:TLP292",
+  "name": "TLP292",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TLP292.kicad_sym",
+  "description": "AC/DC Phototransistor Optocoupler, Vce 80V, CTR 50-200%, SOP4",
+  "datasheet": "https://toshiba.semicon-storage.com/info/TLP292_datasheet_en_20191129.pdf?did=14425&prodName=TLP292",
+  "keywords": "NPN AC DC Phototransistor Optocoupler",
+  "footprint": "Package_SO:SOIC-4_4.55x2.6mm_P1.27mm",
+  "extends": "TLP290",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TLP292/",
+  "part_path": "parts/TLP292",
+  "symbol_file": "parts/TLP292/TLP292.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.040Z"
+}

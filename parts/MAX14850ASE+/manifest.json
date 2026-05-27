@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/MAX14850ASE+:MAX14850ASE+",
+  "name": "MAX14850ASE+",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/MAX14850ASE+.kicad_sym",
+  "description": "Six-channel digital isolator, bidirectional, 3V3, 5V, SOIC-16",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX14850.pdf",
+  "keywords": "6 channel digital isolator bidirectional",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "MAX14850AEE+",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/MAX14850ASE+/",
+  "part_path": "parts/MAX14850ASE+",
+  "symbol_file": "parts/MAX14850ASE+/MAX14850ASE+.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.560Z"
+}

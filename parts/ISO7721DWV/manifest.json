@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ISO7721DWV:ISO7721DWV",
+  "name": "ISO7721DWV",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ISO7721DWV.kicad_sym",
+  "description": "Low Power Dual-Channel 1/1 Digital Isolator, 100Mbps 11ns, Fail-Safe High, SOIC-8 (300mil)",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/iso7721.pdf",
+  "keywords": "2Ch Dual Digital Isolator 100Mbps",
+  "footprint": "Package_SO:SOIC-8_7.5x5.85mm_P1.27mm",
+  "extends": "ISO7721D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ISO7721DWV/",
+  "part_path": "parts/ISO7721DWV",
+  "symbol_file": "parts/ISO7721DWV/ISO7721DWV.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.417Z"
+}

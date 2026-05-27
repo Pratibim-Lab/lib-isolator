@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/Si8641BB-B-IS:Si8641BB-B-IS",
+  "name": "Si8641BB-B-IS",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/Si8641BB-B-IS.kicad_sym",
+  "description": "Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 2.5kV isolation, Fail-Safe Low, SOIC-16W",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf",
+  "keywords": "4Ch 3In 1Out Quad Digital Isolator 150Mbps",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/Si8641BB-B-IS/",
+  "part_path": "parts/Si8641BB-B-IS",
+  "symbol_file": "parts/Si8641BB-B-IS/Si8641BB-B-IS.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.692Z"
+}

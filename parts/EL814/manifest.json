@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/EL814:EL814",
+  "name": "EL814",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/EL814.kicad_sym",
+  "description": "AC/DC NPN Optocoupler, DIP4/SMD4",
+  "datasheet": "http://www.everlight.com/file/ProductFile/EL814.pdf",
+  "keywords": "NPN AC DC Optocoupler",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/EL814/",
+  "part_path": "parts/EL814",
+  "symbol_file": "parts/EL814/EL814.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.198Z"
+}

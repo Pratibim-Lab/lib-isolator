@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/HCNW2211:HCNW2211",
+  "name": "HCNW2211",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/HCNW2211.kicad_sym",
+  "description": "Opto Coupler, 10kV/us, 1kV CMR, Schmitt trigger output, WDIP-8",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-0674EN",
+  "keywords": "opto coupler schmitt output",
+  "footprint": "Package_DIP:DIP-8_W10.16mm",
+  "extends": "HCNW2201",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/HCNW2211/",
+  "part_path": "parts/HCNW2211",
+  "symbol_file": "parts/HCNW2211/HCNW2211.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.221Z"
+}

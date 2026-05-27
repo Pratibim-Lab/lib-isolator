@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TIL111:TIL111",
+  "name": "TIL111",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TIL111.kicad_sym",
+  "description": "DC Optocoupler, Phototransistor NPN, DIP6",
+  "datasheet": "https://www.egr.msu.edu/eceshop/Parts_Inventory/datasheets/til111.pdf",
+  "keywords": "NPN DC Optocoupler Base Connected",
+  "footprint": "Package_DIP:DIP-6_W7.62mm",
+  "extends": "4N25",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TIL111/",
+  "part_path": "parts/TIL111",
+  "symbol_file": "parts/TIL111/TIL111.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.984Z"
+}

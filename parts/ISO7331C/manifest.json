@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ISO7331C:ISO7331C",
+  "name": "ISO7331C",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ISO7331C.kicad_sym",
+  "description": "Low Power Quad-Channel 2/1 Digital Isolator, 25Mbps 31ns, Fail-Safe High, SO16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/iso7331c.pdf",
+  "keywords": "3Ch Quad Digital Isolator 25Mbps",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ISO7331C/",
+  "part_path": "parts/ISO7331C",
+  "symbol_file": "parts/ISO7331C/ISO7331C.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.380Z"
+}

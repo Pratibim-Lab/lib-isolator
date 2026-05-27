@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/MAX14850AEE+:MAX14850AEE+",
+  "name": "MAX14850AEE+",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/MAX14850AEE+.kicad_sym",
+  "description": "Six-channel digital isolator, bidirectional, 3V3, 5V, QSOP-16",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX14850.pdf",
+  "keywords": "6 channel digital isolator bidirectional",
+  "footprint": "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/MAX14850AEE+/",
+  "part_path": "parts/MAX14850AEE+",
+  "symbol_file": "parts/MAX14850AEE+/MAX14850AEE+.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.558Z"
+}

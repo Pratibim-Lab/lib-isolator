@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ISO7763DW:ISO7763DW",
+  "name": "ISO7763DW",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ISO7763DW.kicad_sym",
+  "description": "Default high, High-speed, robust EMC, reinforced, six-channel, digital, isolator, SOIC-16",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/iso7763.pdf",
+  "keywords": "6 channel digital isolator",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ISO7763DW/",
+  "part_path": "parts/ISO7763DW",
+  "symbol_file": "parts/ISO7763DW/ISO7763DW.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.478Z"
+}

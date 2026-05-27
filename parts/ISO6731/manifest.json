@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ISO6731:ISO6731",
+  "name": "ISO6731",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ISO6731.kicad_sym",
+  "description": "General-purpose, triple-channel, 2/1, digital isolator",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/iso6731.pdf",
+  "keywords": "3 channel digital isolator",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ISO6731/",
+  "part_path": "parts/ISO6731",
+  "symbol_file": "parts/ISO6731/ISO6731.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.349Z"
+}

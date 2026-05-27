@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/Si8660BB-B-IU:Si8660BB-B-IU",
+  "name": "Si8660BB-B-IU",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/Si8660BB-B-IU.kicad_sym",
+  "description": "Low-Power Hex-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 2.5kV isolation, Fail-Safe Low, QSOP-16",
+  "datasheet": "https://www.skyworksinc.com/-/media/Skyworks/SL/documents/public/data-sheets/Si866x.pdf",
+  "keywords": "6Ch 6In Hex Digital Isolator 150Mbps",
+  "footprint": "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "Si8660BA-B-IS1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/Si8660BB-B-IU/",
+  "part_path": "parts/Si8660BB-B-IU",
+  "symbol_file": "parts/Si8660BB-B-IU/Si8660BB-B-IU.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.791Z"
+}

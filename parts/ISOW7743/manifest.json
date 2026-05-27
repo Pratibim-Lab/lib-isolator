@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ISOW7743:ISOW7743",
+  "name": "ISOW7743",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ISOW7743.kicad_sym",
+  "description": "Quad-Channel 1/3 Digital Isolator with Integrated Low-Emissions, Low-Noise DC-DC Converter, SOIC-20W",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/isow7741.pdf",
+  "keywords": "4-channel-digital-isolator integrated-isolated-supply",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ISOW7743/",
+  "part_path": "parts/ISOW7743",
+  "symbol_file": "parts/ISOW7743/ISOW7743.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.512Z"
+}

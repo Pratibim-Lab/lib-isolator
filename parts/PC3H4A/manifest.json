@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/PC3H4A:PC3H4A",
+  "name": "PC3H4A",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/PC3H4A.kicad_sym",
+  "description": "AC/DC Optocoupler, Vce 70V, CTR 100-250%, SOP4",
+  "datasheet": "http://www.sharpsma.com/webfm_send/395",
+  "keywords": "NPN AC DC Optocoupler",
+  "footprint": "Package_DIP:SMDIP-4_W7.62mm",
+  "extends": "PC3H4",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/PC3H4A/",
+  "part_path": "parts/PC3H4A",
+  "symbol_file": "parts/PC3H4A/PC3H4A.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.579Z"
+}

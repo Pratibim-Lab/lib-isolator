@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/NSL-32:NSL-32",
+  "name": "NSL-32",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/NSL-32.kicad_sym",
+  "description": "Optocoupler, LED Input, Photocell Output",
+  "datasheet": "http://lunainc.com/wp-content/uploads/2016/06/NSL-32.pdf",
+  "keywords": "optocoupler",
+  "footprint": "OptoDevice:Luna_NSL-32",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/NSL-32/",
+  "part_path": "parts/NSL-32",
+  "symbol_file": "parts/NSL-32/NSL-32.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.574Z"
+}

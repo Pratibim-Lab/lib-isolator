@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ADuM5410:ADuM5410",
+  "name": "ADuM5410",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ADuM5410.kicad_sym",
+  "description": "Quad-Channel 2.5kV isolator with integrated dc-dc converter, 4 Input / 0 output, SSOP-24",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM5410-5411-5412.pdf",
+  "keywords": "digital isolator galvanic isopower",
+  "footprint": "Package_SO:SSOP-24_5.3x8.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ADuM5410/",
+  "part_path": "parts/ADuM5410",
+  "symbol_file": "parts/ADuM5410/ADuM5410.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.148Z"
+}

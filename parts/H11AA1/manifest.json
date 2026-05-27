@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/H11AA1:H11AA1",
+  "name": "H11AA1",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/H11AA1.kicad_sym",
+  "description": "AC/DC NPN Optocoupler, DIP-6",
+  "datasheet": "https://www.vishay.com/docs/83608/h11aa1.pdf",
+  "keywords": "NPN AC DC Optocoupler",
+  "footprint": "Package_DIP:DIP-6_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/H11AA1/",
+  "part_path": "parts/H11AA1",
+  "symbol_file": "parts/H11AA1/H11AA1.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.213Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/CA-IS3721CLG:CA-IS3721CLG",
+  "name": "CA-IS3721CLG",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/CA-IS3721CLG.kicad_sym",
+  "description": "Dual-channel digital isolator, 3.0 to 5.5V supply, 40Mbps, 5kV isolation, default output low, SOIC-8 (300 mil)",
+  "datasheet": "https://e.chipanalog.com/Public/Uploads/uploadfile/files/20250206/CAIS372xCdatasheetVersion1.02en20241217.pdf",
+  "keywords": "Chipanalog high-speed",
+  "footprint": "Package_SO:SOIC-8_7.5x5.85mm_P1.27mm",
+  "extends": "CA-IS3721CLS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/CA-IS3721CLG/",
+  "part_path": "parts/CA-IS3721CLG",
+  "symbol_file": "parts/CA-IS3721CLG/CA-IS3721CLG.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.181Z"
+}

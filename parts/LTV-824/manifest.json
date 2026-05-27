@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/LTV-824:LTV-824",
+  "name": "LTV-824",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/LTV-824.kicad_sym",
+  "description": "Dual AC/DC Optocoupler, Vce 35V, CTR 20%, DIP8",
+  "datasheet": "http://optoelectronics.liteon.com/upload/download/DS-70-96-0013/S_110_LTV-814%20824%20844%20(M,%20S,%20S-TA,%20S-TA1,%20S-TP)%20Series.pdf",
+  "keywords": "Dual NPN AC DC Optocoupler",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/LTV-824/",
+  "part_path": "parts/LTV-824",
+  "symbol_file": "parts/LTV-824/LTV-824.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.546Z"
+}

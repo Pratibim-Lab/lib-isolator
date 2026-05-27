@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/Optocoupler_DC_PhotoNPN_AKEC:Optocoupler_DC_PhotoNPN_AKEC",
+  "name": "Optocoupler_DC_PhotoNPN_AKEC",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/Optocoupler_DC_PhotoNPN_AKEC.kicad_sym",
+  "description": "Generic DC optocoupler with NPN phototransistor output, pins order: anode/cathode/emitter/collector",
+  "datasheet": "",
+  "keywords": "NPN DC Optocoupler",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/Optocoupler_DC_PhotoNPN_AKEC/",
+  "part_path": "parts/Optocoupler_DC_PhotoNPN_AKEC",
+  "symbol_file": "parts/Optocoupler_DC_PhotoNPN_AKEC/Optocoupler_DC_PhotoNPN_AKEC.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.576Z"
+}

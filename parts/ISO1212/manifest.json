@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ISO1212:ISO1212",
+  "name": "ISO1212",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ISO1212.kicad_sym",
+  "description": "Isolated, 2 Channels, 24 to 60V Digital Inputs Receiver, SSOP-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/iso1212.pdf",
+  "keywords": "isolated digital input",
+  "footprint": "Package_SO:SSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ISO1212/",
+  "part_path": "parts/ISO1212",
+  "symbol_file": "parts/ISO1212/ISO1212.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.318Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/EL817:EL817",
+  "name": "EL817",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/EL817.kicad_sym",
+  "description": "DC Optocoupler, Vce 35V, DIP-4",
+  "datasheet": "http://www.everlight.com/file/ProductFile/EL817.pdf",
+  "keywords": "NPN DC Optocoupler",
+  "footprint": "Package_DIP:DIP-4_W7.62mm",
+  "extends": "PC817",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/EL817/",
+  "part_path": "parts/EL817",
+  "symbol_file": "parts/EL817/EL817.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.200Z"
+}

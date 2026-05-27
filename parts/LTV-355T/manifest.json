@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/LTV-355T:LTV-355T",
+  "name": "LTV-355T",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/LTV-355T.kicad_sym",
+  "description": "DC Darlington Optocoupler, Vce 35V, CTR 600%, SO-4",
+  "datasheet": "http://optoelectronics.liteon.com/upload/download/DS70-2001-006/S_110_LTV-355T%2020140520.pdf",
+  "keywords": "NPN Darlington DC Optocoupler",
+  "footprint": "Package_SO:SO-4_4.4x3.6mm_P2.54mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/LTV-355T/",
+  "part_path": "parts/LTV-355T",
+  "symbol_file": "parts/LTV-355T/LTV-355T.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.526Z"
+}

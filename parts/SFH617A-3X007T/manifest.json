@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/SFH617A-3X007T:SFH617A-3X007T",
+  "name": "SFH617A-3X007T",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/SFH617A-3X007T.kicad_sym",
+  "description": "Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 40-80, -55 to +110 degree Celsius, UL, BSI, FIMKO, cUL, 8mm clearence SMD PDIP-4",
+  "datasheet": "http://www.vishay.com/docs/83740/sfh617a.pdf",
+  "keywords": "Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 40-80",
+  "footprint": "Package_DIP:SMDIP-4_W9.53mm_Clearance8mm",
+  "extends": "Optocoupler_DC_PhotoNPN_AKEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/SFH617A-3X007T/",
+  "part_path": "parts/SFH617A-3X007T",
+  "symbol_file": "parts/SFH617A-3X007T/SFH617A-3X007T.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.626Z"
+}

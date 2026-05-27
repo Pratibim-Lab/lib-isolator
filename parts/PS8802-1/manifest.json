@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/PS8802-1:PS8802-1",
+  "name": "PS8802-1",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/PS8802-1.kicad_sym",
+  "description": "Single DC Optocoupler Base Connected, Vcc 35V, CTR 15%, Viso 2500V, SSOP-8",
+  "datasheet": "http://www.cel.com/pdf/datasheets/ps8802.pdf",
+  "keywords": "NPN DC Optocoupler Base Connected",
+  "footprint": "Package_SO:SSOP-8_3.95x5.21x3.27mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/PS8802-1/",
+  "part_path": "parts/PS8802-1",
+  "symbol_file": "parts/PS8802-1/PS8802-1.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.588Z"
+}

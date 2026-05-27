@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/VO615A-3:VO615A-3",
+  "name": "VO615A-3",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/VO615A-3.kicad_sym",
+  "description": "DC Optocoupler, Vce 70V, CTR 100-200% @ 10mA, Viso 5000Vrms, DIP4",
+  "datasheet": "http://www.vishay.com/docs/81753/vo615a.pdf",
+  "keywords": "NPN DC Optocoupler",
+  "footprint": "",
+  "extends": "VO615A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/VO615A-3/",
+  "part_path": "parts/VO615A-3",
+  "symbol_file": "parts/VO615A-3/VO615A-3.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.124Z"
+}

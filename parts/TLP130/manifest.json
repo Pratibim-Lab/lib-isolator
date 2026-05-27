@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TLP130:TLP130",
+  "name": "TLP130",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TLP130.kicad_sym",
+  "description": "AC DC Optocoupler Base Connected, Vce 80V, CTR 50-100%, SOIC-5-6 (MFSOP-5-6)",
+  "datasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=16740&prodName=TLP130",
+  "keywords": "NPN AC DC Optocoupler Base Connected",
+  "footprint": "Package_SO:Toshiba_SOIC-5-6_4.4x3.6mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TLP130/",
+  "part_path": "parts/TLP130",
+  "symbol_file": "parts/TLP130/TLP130.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.989Z"
+}

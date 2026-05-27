@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/6N139:6N139",
+  "name": "6N139",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/6N139.kicad_sym",
+  "description": "Low Input Current high Gain Split Darlington Optocouplers, -0.5V to 18V VDD, DIP-8",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/HCPL2731-D.pdf",
+  "keywords": "darlington optocoupler",
+  "footprint": "",
+  "extends": "6N138",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/6N139/",
+  "part_path": "parts/6N139",
+  "symbol_file": "parts/6N139/6N139.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:32.983Z"
+}

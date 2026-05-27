@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/LTV-817:LTV-817",
+  "name": "LTV-817",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/LTV-817.kicad_sym",
+  "description": "DC Optocoupler, Vce 35V, CTR 50%, DIP-4",
+  "datasheet": "http://www.us.liteon.com/downloads/LTV-817-827-847.PDF",
+  "keywords": "NPN DC Optocoupler",
+  "footprint": "Package_DIP:DIP-4_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/LTV-817/",
+  "part_path": "parts/LTV-817",
+  "symbol_file": "parts/LTV-817/LTV-817.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.541Z"
+}

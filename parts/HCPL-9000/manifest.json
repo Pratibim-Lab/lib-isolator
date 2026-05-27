@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/HCPL-9000:HCPL-9000",
+  "name": "HCPL-9000",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/HCPL-9000.kicad_sym",
+  "description": "High Speed Digital Isolator, CMOS, excellent transient immunity, active-low logic output enable, DIP-8",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-0137EN",
+  "keywords": "digital isolator, high speed",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/HCPL-9000/",
+  "part_path": "parts/HCPL-9000",
+  "symbol_file": "parts/HCPL-9000/HCPL-9000.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.309Z"
+}

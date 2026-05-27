@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/ADuM5403:ADuM5403",
+  "name": "ADuM5403",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/ADuM5403.kicad_sym",
+  "description": "Quad-Channel 2.5kV isolator with integrated isoPower dc-dc converter, 1 Input / 3 output, SOIC-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM5401_5402_5403_5404.pdf",
+  "keywords": "digital isolator galvanic isopower",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/ADuM5403/",
+  "part_path": "parts/ADuM5403",
+  "symbol_file": "parts/ADuM5403/ADuM5403.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.141Z"
+}

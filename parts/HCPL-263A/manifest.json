@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/HCPL-263A:HCPL-263A",
+  "name": "HCPL-263A",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/HCPL-263A.kicad_sym",
+  "description": "Dual High Speed HCMOS/LSTTL/TTL Compatible Optocoupler, dV/dt 1000/us, VCM 50, -0.5V to 7V VCC, DIP-8",
+  "datasheet": "https://docs.broadcom.com/doc/AV02-0391EN",
+  "keywords": "High speed optically coupled gates",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/HCPL-263A/",
+  "part_path": "parts/HCPL-263A",
+  "symbol_file": "parts/HCPL-263A/HCPL-263A.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.305Z"
+}

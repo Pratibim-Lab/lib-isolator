@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TLP3021:TLP3021",
+  "name": "TLP3021",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TLP3021.kicad_sym",
+  "description": "Photo-Triac, Vdrm 400V, Ift 15mA, DIP6",
+  "datasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=1421&prodName=TLP3021(S)",
+  "keywords": "Photo-Triac Opto Triac",
+  "footprint": "Package_DIP:Toshiba_11-7A9",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TLP3021/",
+  "part_path": "parts/TLP3021",
+  "symbol_file": "parts/TLP3021/TLP3021.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.045Z"
+}

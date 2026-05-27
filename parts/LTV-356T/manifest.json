@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/LTV-356T:LTV-356T",
+  "name": "LTV-356T",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/LTV-356T.kicad_sym",
+  "description": "DC Optocoupler, Vce 80V, CTR 50%, SO-4",
+  "datasheet": "http://optoelectronics.liteon.com/upload/download/DS70-2001-010/S_110_LTV-356T%2020140520.pdf",
+  "keywords": "NPN DC Optocoupler",
+  "footprint": "Package_SO:SO-4_4.4x3.6mm_P2.54mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/LTV-356T/",
+  "part_path": "parts/LTV-356T",
+  "symbol_file": "parts/LTV-356T/LTV-356T.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:33.528Z"
+}

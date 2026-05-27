@@ -1,0 +1,17 @@
+{
+  "id": "Isolator/TLP2310:TLP2310",
+  "name": "TLP2310",
+  "library": "Isolator",
+  "file": "Isolator.kicad_symdir/TLP2310.kicad_sym",
+  "description": "5-Mbps low-power non inverting photocouple, 3.75 kVrms, 2.7 - 5.5 Vdd, push-pull output",
+  "datasheet": "https://toshiba.semicon-storage.com/info/TLP2310_datasheet_en_20220913.pdf?did=29657&prodName=TLP2310",
+  "keywords": "Optocoupler high-speed Toshiba",
+  "footprint": "Package_SO:SO-5-6_4.55x3.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-isolator@master/parts/TLP2310/",
+  "part_path": "parts/TLP2310",
+  "symbol_file": "parts/TLP2310/TLP2310.kicad_sym",
+  "source_library": "Isolator.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:34.008Z"
+}
